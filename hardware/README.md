@@ -1,6 +1,6 @@
 # 硬件资料
 
-这里存放 Draeyes Microcontroller 简化版遥控器的硬件参考资料。
+这里存放 Draeyes Remote C3 Mini 简化版遥控器的硬件参考资料。
 
 ## 内容
 

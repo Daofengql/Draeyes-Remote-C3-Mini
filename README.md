@@ -1,8 +1,8 @@
-# Draeyes Microcontroller 简化版遥控器
+# Draeyes Remote C3 Mini 简化版遥控器
 
-Draeyes Microcontroller 是 Draeyes 兽装可动眼系列的简化版五键遥控器固件与硬件资料仓库。该版本面向 ESP32-C3 主控硬件，使用上、下、左、右、中五个按键，通过 ESP-NOW 向接收端发送预设式控制数据。
+Draeyes Remote C3 Mini 是 Draeyes 兽装可动眼系列的简化版五键遥控器固件与硬件资料仓库。该版本面向 ESP32-C3 主控硬件，使用上、下、左、右、中五个按键，通过 ESP-NOW 向接收端发送预设式控制数据。
 
-与 ESP32-C6 完整版 Minicontroller 相比，简化版去掉了摇杆、光照传感器、EEPROM 摇杆校准、AP/MQTT 辅助功能和外壳资料，保留自动眼动与自动眨眼算法，适合低成本、小体积、少按键的控制器硬件。
+与 ESP32-C6 完整版 Draeyes Remote C6 相比，简化版去掉了摇杆、光照传感器、EEPROM 摇杆校准和外壳资料，保留自动眼动与自动眨眼算法，适合低成本、小体积、少按键的控制器硬件。
 
 ## 硬件配置
 
