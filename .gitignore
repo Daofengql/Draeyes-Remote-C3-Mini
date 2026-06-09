@@ -1,0 +1,29 @@
+# Arduino 编译输出
+build/
+.build/
+*.o
+*.a
+*.d
+*.bin
+*.hex
+*.elf
+*.eep
+*.lss
+*.sym
+*.map
+
+# 编辑器和本地配置
+.vscode/
+
+# 操作系统生成文件
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+._*
+*~
+
+# 日志和临时文件
+*.log
+*.tmp
+*.temp
